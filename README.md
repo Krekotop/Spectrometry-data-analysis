@@ -1,2 +1,2 @@
-# Lviv Data Science Summer School
+Lviv Data Science Summer School
 This is the work done as a project in Lviv Data Science Summer School. The goal of the project is to predict nutrient content of the food samples, using regression algorithms to interpret results from NIR Spectra. After careful consideration and comparison, SVR with Savitsky-Golay filter was implemented for this task, which gave over 99% accuracy on test set and 92% accuracy on holdout set.
